@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="order_text">comanda</string>
+    <string name="topping">Toping</string>
+    <string name="wipped_cream">Frisca</string>
+    <string name="chocolate">Ciocolata</string>
+    <string name="quantity">"Cantitatea "</string>
+    <string name="order_summary">Sumar Comanda</string>
+    <string name="thank_you">Multumesc!</string>
+    <string name="add_chocolate">Adaugati ciocolata?</string>
+    <string name="add_wipped_cream">Adaugati frisca?</string>
+    <string name="total_price">"Total: $"</string>
+    <string name="name_user">"Nume: "</string>
+    <string name="order_for_user">"Comanda Just Java pentru "</string>
+</resources>
